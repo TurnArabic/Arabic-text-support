@@ -1,1 +1,1 @@
-# Arabic-text-support
+# Arabic text support
